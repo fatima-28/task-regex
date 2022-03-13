@@ -1,0 +1,4 @@
+ 
+    Task 1. Verilmir metnde telefon nomrelerini tapan regex.Telefon nomresi (+994)55-497-83-03 seklinde olmalidir)
+
+     https://regex101.com/r/bGh3FP/1

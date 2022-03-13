@@ -1,0 +1,8 @@
+
+
+Task2 Verilmis yazinin umumilikde email-dirse secsin
+
+
+
+
+https://regex101.com/r/gH8VeM/1
